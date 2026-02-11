@@ -1,2 +1,7 @@
-vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:2096?headerType=http&host=&path=%2F&security=none&type=tcp#max-1bdv249u-1.00GB%F0%9F%93%8A
-vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:2095?headerType=http&host=&path=%2F&security=none&type=tcp#max2-id2qtt2k-1.00GB%F0%9F%93%8A
+vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:2096?headerType=http&host=&path=%2F&security=none&type=tcp#max-1022.90MB%F0%9F%93%8A
+vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:2095?headerType=http&host=&path=%2F&security=none&type=tcp#max2-1024.00MB%F0%9F%93%8A
+vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:2052?host=&path=%2F&security=none&type=ws#max3-1.00GB%F0%9F%93%8A
+vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:7000?headerType=http&host=&path=%2F&security=none&type=tcp#max4-1.00GB%F0%9F%93%8A
+vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:9052?headerType=http&host=&path=%2F&security=none&type=tcp#max5-1.00GB%F0%9F%93%8A
+vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:9061?headerType=http&host=&path=%2F&security=none&type=tcp#max7
+vless://05d918ed-9437-4258-8027-873d87261f18@46.8.69.132:8880?host=speedtest.net&path=speedtest.net&security=none&type=ws#max8
