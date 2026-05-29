@@ -646,3 +646,4 @@ vless://7fb5fcb6-c8fa-48e4-8757-f8731a3c3030@v2ngfast-v2ngfast-v2ngfast-v2ngfast
 vless://7fc354ff-b1a8-4888-b37f-11c83d1d9d4c@45.63.18.87:80?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%F0%9F%8D%93%20%40xixv2ray
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?encryption=none&security=none&type=tcp&headerType=http&host=reata.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8D%93%20%40xixv2ray
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?encryption=none&security=none&type=tcp&headerType=http&host=reata.ir#%F0%9F%8D%93%20%40xixv2ray
+trojan://HrUm1i9OMyDGeVJO0YdkY2PE@45.39.241.51:32606?type=tcp&security=none#%40failvpn_bot%20%7C%20BG%20%7C%20TROJAN
